@@ -1,0 +1,19 @@
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\bin\Debug\net6.0-windows\TCP Client.exe
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\bin\Debug\net6.0-windows\TCP Client.deps.json
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\bin\Debug\net6.0-windows\TCP Client.runtimeconfig.json
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\bin\Debug\net6.0-windows\TCP Client.dll
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\bin\Debug\net6.0-windows\TCP Client.pdb
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\bin\Debug\net6.0-windows\SuperSimpleTcp.dll
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\obj\Debug\net6.0-windows\TCP Client.csproj.AssemblyReference.cache
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\obj\Debug\net6.0-windows\TCP_Client.Form1.resources
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\obj\Debug\net6.0-windows\TCP Client.csproj.GenerateResource.cache
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\obj\Debug\net6.0-windows\TCP Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\obj\Debug\net6.0-windows\TCP Client.AssemblyInfoInputs.cache
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\obj\Debug\net6.0-windows\TCP Client.AssemblyInfo.cs
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\obj\Debug\net6.0-windows\TCP Client.csproj.CoreCompileInputs.cache
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\obj\Debug\net6.0-windows\TCP Client.csproj.CopyComplete
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\obj\Debug\net6.0-windows\TCP Client.dll
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\obj\Debug\net6.0-windows\refint\TCP Client.dll
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\obj\Debug\net6.0-windows\TCP Client.pdb
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\obj\Debug\net6.0-windows\TCP Client.genruntimeconfig.cache
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Client\obj\Debug\net6.0-windows\ref\TCP Client.dll

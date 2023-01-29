@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rHvSZUMmjcSr2+EqTW4yxHnK+BFGlrw9fsGvXwRmyasksm3BBFV3ckNAIj3/Nd8Ojj9IogKEm6D4280iRRUWXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amine\\Desktop\\TCP-IP Consoles\\TCP Server\\TCP Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amine\\.nuget\\packages\\supersimpletcp\\3.0.7\\supersimpletcp.3.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

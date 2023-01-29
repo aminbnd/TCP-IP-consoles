@@ -1,0 +1,19 @@
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\obj\Debug\net6.0-windows\TCP Server.csproj.AssemblyReference.cache
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\obj\Debug\net6.0-windows\TCP Server.csproj.GenerateResource.cache
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\obj\Debug\net6.0-windows\TCP Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\obj\Debug\net6.0-windows\TCP Server.AssemblyInfoInputs.cache
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\obj\Debug\net6.0-windows\TCP Server.AssemblyInfo.cs
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\obj\Debug\net6.0-windows\TCP Server.csproj.CoreCompileInputs.cache
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\bin\Debug\net6.0-windows\TCP Server.exe
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\bin\Debug\net6.0-windows\TCP Server.deps.json
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\bin\Debug\net6.0-windows\TCP Server.runtimeconfig.json
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\bin\Debug\net6.0-windows\TCP Server.dll
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\bin\Debug\net6.0-windows\TCP Server.pdb
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\bin\Debug\net6.0-windows\SuperSimpleTcp.dll
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\obj\Debug\net6.0-windows\TCP_Server.Form1.resources
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\obj\Debug\net6.0-windows\TCP Server.csproj.CopyComplete
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\obj\Debug\net6.0-windows\TCP Server.dll
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\obj\Debug\net6.0-windows\refint\TCP Server.dll
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\obj\Debug\net6.0-windows\TCP Server.pdb
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\obj\Debug\net6.0-windows\TCP Server.genruntimeconfig.cache
+C:\Users\Amine\Desktop\TCP-IP Consoles\TCP Server\obj\Debug\net6.0-windows\ref\TCP Server.dll
